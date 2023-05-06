@@ -75,7 +75,7 @@ This project is also hosted in firebase, you can run the web app on your browser
 
 1. Clone the repository on your system
    ```sh
-   git clone https://github.com/aniketyadavv/Meditech-Healthcare.git
+   git clone https://github.com/aniketyadavv/MediTech.git
    ```
 2. Or direct download ZIP file in your system
 
